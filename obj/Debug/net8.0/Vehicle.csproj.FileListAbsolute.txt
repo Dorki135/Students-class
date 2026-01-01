@@ -1,0 +1,14 @@
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.AssemblyInfoInputs.cache
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.AssemblyInfo.cs
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.csproj.CoreCompileInputs.cache
+/Users/dorkislev/Cs projects/bin/Debug/net8.0/Vehicle
+/Users/dorkislev/Cs projects/bin/Debug/net8.0/Vehicle.deps.json
+/Users/dorkislev/Cs projects/bin/Debug/net8.0/Vehicle.runtimeconfig.json
+/Users/dorkislev/Cs projects/bin/Debug/net8.0/Vehicle.dll
+/Users/dorkislev/Cs projects/bin/Debug/net8.0/Vehicle.pdb
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.dll
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/refint/Vehicle.dll
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.pdb
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/Vehicle.genruntimeconfig.cache
+/Users/dorkislev/Cs projects/obj/Debug/net8.0/ref/Vehicle.dll
